@@ -20,7 +20,6 @@
         "phpunit/phpunit": "3.7.19",
         "mockery/mockery": "dev-master@dev",
         "doctrine/cache": "1.*",
-        "pear/file_marc": "*",
         "pear/pear_exception" : "@dev",
         "guzzlehttp/guzzle": "v3.8.1"
     },
