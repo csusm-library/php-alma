@@ -20,12 +20,12 @@
         "phpunit/phpunit": "3.7.19",
         "mockery/mockery": "dev-master@dev",
         "doctrine/cache": "1.*",
-        "pear/file_marc": "1.0.0",
+        "pear/file_marc": "*",
         "pear/pear_exception" : "@dev",
         "guzzlehttp/guzzle": "v3.8.1"
     },
     "prefer-stable": true,
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require-dev": {},
     "suggest": {},
     "autoload": {
